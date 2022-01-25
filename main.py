@@ -34,7 +34,7 @@ def get_pdf_file_content(path_to_pdf):
 
 
 
-path_to_pdf = "./Incentive.pdf"
+path_to_pdf = "./file.pdf"
 get_pdf_file_content(path_to_pdf)
 
 
